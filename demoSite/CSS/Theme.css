@@ -1,0 +1,11 @@
+p{
+background: blue;
+color: yellow;
+margin: 30 px;
+}
+
+h3 {
+
+front-kerning: 20;
+background-image: "../images/HKBackground.jpg";
+}
